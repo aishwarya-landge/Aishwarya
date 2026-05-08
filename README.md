@@ -1,3 +1,3 @@
-Tis is My First Repository
+This is My First Repository
 <br>
 Author-Aishwarya
